@@ -1,0 +1,12 @@
+Here I will list some simple vi commands
+#Day 1 04/13/2021
+1. vi <filename> : opens file
+
+#There are two modes: Insert Mode, Command Mode
+# To enter text, you have to be in Insert mode. Press "i" to initiate insert mode
+#To give some file commands, have to be in Command mode. Press "esc" to be in command mode
+
+2. To save and close file: :wq 
+
+# End of Day 1 practice
+

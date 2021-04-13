@@ -1,0 +1,13 @@
+This is the first line of the file.
+This is line 2.
+This is line 3.
+
+#I am trying below to yank and paste 3 lines
+Line 1
+Line 2
+Line 3
+
+#pasting tthe yanked 3 lines
+Line 1
+Line 2
+Line 3

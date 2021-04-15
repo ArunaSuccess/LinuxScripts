@@ -10,3 +10,10 @@ Here I will list some simple vi commands
 
 # End of Day 1 practice
 
+#Day 2: yank, copy, delete, undo
+yy (yanks)
+3yy	: yanks 3 lines
+p	: paste
+dd	: delettes that line
+4dd	: deletes 4 lines from the cursor point
+u	: undo 
